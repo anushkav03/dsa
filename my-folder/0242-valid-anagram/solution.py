@@ -33,8 +33,9 @@ class Solution(object):
         s = "".join(sorted(s))   
         t = "".join(sorted(t))
 
-        for i in range(0, len(s)):
-            if s[i] != t[i]:
-                return False
-        return True
+        #for i in range(0, len(s)):
+        #    if s[i] != t[i]:
+        #        return False
+        
+        return s==t
 
