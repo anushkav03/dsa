@@ -4,11 +4,9 @@
  * @return {Promise}
  */
 var addTwoPromises = async function(promise1, promise2) {
-    num1 = await promise1.then()
-    num2 = await promise2.then()
-
-    //  async func return values get wrapped in a promise
-    return num1 + num2 
+    num1 = await promise1;
+    num2 = await promise2;
+    return num1+num2;
 };
 
 /**
