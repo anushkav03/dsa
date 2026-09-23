@@ -10,4 +10,4 @@ An automatically-updated collection of my accepted [LeetCode](https://leetcode.c
 
 ## Acknowledgement
 
-Huge thanks to [Josh Cai](https://github.com/joshcai) for creating the open-source [leetcode-sync](https://github.com/joshcai/leetcode-sync) Action that powers the weekly sync workflow for this repo.
+Thanks to [Josh Cai](https://github.com/joshcai) for creating the open-source [leetcode-sync](https://github.com/joshcai/leetcode-sync) Action that powers the weekly sync workflow for this repo.
